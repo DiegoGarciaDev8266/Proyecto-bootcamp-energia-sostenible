@@ -23,7 +23,7 @@ Scrum en siete sprints: mockups y prototipos, diseño y navegación, formulario 
 - Wilmar Enrique Cardona Rodríguez: Lider 
 
 ## Documentación
-[Enlace al documento del proyecto, si el equipo autoriza publicarlo]
+https://github.com/DiegoGarciaDev8266/Proyecto-bootcamp-energia-sostenible/blob/main/Documentaci%C3%B3n/Proyecto%20Tech.pdf 
 
 ## Estado
 Entregable final del bootcamp, evaluado por un jurado de Talento Tech.
